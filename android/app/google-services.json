@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439553491560",
+    "project_id": "takenote-ab28a",
+    "storage_bucket": "takenote-ab28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439553491560:android:f533f9d56ca2795d2f71dd",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439553491560-ukib6vnfhtdmrosti84qauc8qgtogchr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbb15Qv7p6Y1WVnjZqjrdlfsadC99Bhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439553491560-ukib6vnfhtdmrosti84qauc8qgtogchr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
